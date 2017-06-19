@@ -3,14 +3,6 @@
     "hostile",
     "fly|false"
   ],
-  "info.ata4.minecraft.dragon.server.entity.EntityFlyingTameable": [
-    "hostile"
-    "fly|true"
-  ],
-  "info.ata4.minecraft.dragon.server.entity.EntityTameableDragon": [
-    "hostile"
-    "fly|true"
-  ],
   "am2.bosses.EntityArcaneGuardian": [
     "hostile"
   ],
@@ -2062,5 +2054,13 @@
     "hostile",
 	"fear|9,0.6D,net.minecraft.entity.passive.EntityVillager",
     "sunburn"
+  ],
+  "info.ata4.minecraft.dragon.server.entity.EntityFlyingTameable": [
+    "hostile"
+    "fly|true"
+  ],
+  "info.ata4.minecraft.dragon.server.entity.EntityTameableDragon": [
+    "hostile"
+    "fly|true"
   ]
 }
